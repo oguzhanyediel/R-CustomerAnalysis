@@ -8,3 +8,5 @@ What will be content in project?
 - Product Affinity Analysis
 - LTV Estimation
 - Churn Prediction
+
+Please note that this is an ongoing project
